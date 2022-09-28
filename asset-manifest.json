@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio2/static/css/main.b4184a6f.chunk.css",
-    "main.js": "/portfolio2/static/js/main.bc7d9615.chunk.js",
-    "main.js.map": "/portfolio2/static/js/main.bc7d9615.chunk.js.map",
+    "main.js": "/portfolio2/static/js/main.f6d5e2b7.chunk.js",
+    "main.js.map": "/portfolio2/static/js/main.f6d5e2b7.chunk.js.map",
     "runtime-main.js": "/portfolio2/static/js/runtime-main.3dbfddb7.js",
     "runtime-main.js.map": "/portfolio2/static/js/runtime-main.3dbfddb7.js.map",
     "static/js/2.545c4ae7.chunk.js": "/portfolio2/static/js/2.545c4ae7.chunk.js",
     "static/js/2.545c4ae7.chunk.js.map": "/portfolio2/static/js/2.545c4ae7.chunk.js.map",
     "index.html": "/portfolio2/index.html",
-    "precache-manifest.67c3a859f320fc837c51d106f9fb54e4.js": "/portfolio2/precache-manifest.67c3a859f320fc837c51d106f9fb54e4.js",
+    "precache-manifest.7fe23bbc98afb677f7089d0673396adb.js": "/portfolio2/precache-manifest.7fe23bbc98afb677f7089d0673396adb.js",
     "service-worker.js": "/portfolio2/service-worker.js",
     "static/css/main.b4184a6f.chunk.css.map": "/portfolio2/static/css/main.b4184a6f.chunk.css.map",
     "static/js/2.545c4ae7.chunk.js.LICENSE.txt": "/portfolio2/static/js/2.545c4ae7.chunk.js.LICENSE.txt",
@@ -20,6 +20,7 @@
     "static/media/git.svg": "/portfolio2/static/media/git.5a42d3af.svg",
     "static/media/github.svg": "/portfolio2/static/media/github.6394e623.svg",
     "static/media/html.svg": "/portfolio2/static/media/html.ec97eac0.svg",
+    "static/media/insights.gif": "/portfolio2/static/media/insights.b7db9697.gif",
     "static/media/jest.svg": "/portfolio2/static/media/jest.6ff75b2e.svg",
     "static/media/js.svg": "/portfolio2/static/media/js.f4a6d54d.svg",
     "static/media/postgresql.svg": "/portfolio2/static/media/postgresql.7f91c2dc.svg",
@@ -32,13 +33,12 @@
     "static/media/sass.svg": "/portfolio2/static/media/sass.b24b0d62.svg",
     "static/media/space.gif": "/portfolio2/static/media/space.83708966.gif",
     "static/media/sql.svg": "/portfolio2/static/media/sql.45ea7b7e.svg",
-    "static/media/swagger.svg": "/portfolio2/static/media/swagger.d6b102ad.svg",
-    "static/media/todo.gif": "/portfolio2/static/media/todo.02f09795.gif"
+    "static/media/swagger.svg": "/portfolio2/static/media/swagger.d6b102ad.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3dbfddb7.js",
     "static/js/2.545c4ae7.chunk.js",
     "static/css/main.b4184a6f.chunk.css",
-    "static/js/main.bc7d9615.chunk.js"
+    "static/js/main.f6d5e2b7.chunk.js"
   ]
 }
