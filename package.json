@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://timmychan99.github.io/portfolio2/",
+  "homepage": "https://timmychan99.github.ioportfolio2/",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
